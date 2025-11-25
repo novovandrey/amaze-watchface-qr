@@ -1,0 +1,14 @@
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\controller\GlobalExceptionHandler.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\AmazeWatchQrApplication.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\storage\StorageService.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\config\StorageProperties.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\storage\StorageFileNotFoundException.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\model\UploadResponse.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\WatchfaceService.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\controller\WatchfaceController.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\storage\FileSystemStorageService.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\packaging\ZpkPackager.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\validation\ZipValidator.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\storage\StorageException.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\packaging\SimpleZpkPackager.java
+C:\Users\Andrei\AntiGravityProjects\amaze-watchface-qr\src\main\java\dev\novov\amazewatchqr\service\qr\QrCodeService.java
